@@ -1,5 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/standard/main/assets/logo.png" width="96" alt="Logo RAW GMC Mastery Standard"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/standard/main/assets/banniere.png" width="100%" alt="RAW GMC Mastery Standard"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/.github/main/profile/assets/logo.png" width="96" alt="Logo RAW GMC Mastery Standard"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/.github/main/profile/assets/banniere.png" width="100%" alt="RAW GMC Mastery Standard"></p>
 
 # RAW GMC Mastery · Standard
 
