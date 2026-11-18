@@ -1,12 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/standard/main/assets/logo.png" width="96" alt="Logo RAW GMC Mastery"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/standard/main/assets/banniere.png" width="100%" alt="RAW GMC Mastery"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/standard/main/assets/logo.png" width="96" alt="Logo RAW GMC Mastery Standard"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/RAW-GMC-Mastery/standard/main/assets/banniere.png" width="100%" alt="RAW GMC Mastery Standard"></p>
 
-# Apprendre, construire et avancer ensemble
+# RAW GMC Mastery · Standard
 
-Les ressources et projets communautaires de RAW GMC Mastery.
+Les skills et projets gratuits de RAW GMC Mastery. Chaque skill ou projet publié disposera de son propre dépôt public.
 
-- **[Standard](https://github.com/RAW-GMC-Mastery/standard)** : ressources gratuites et discussions ouvertes.
-- **[Premium](https://github.com/RAW-GMC-Mastery/premium)** : espace privé réservé aux membres Premium et VIP invités. Le lien ne fonctionne que si ton compte a reçu l'accès.
-- **[Rejoindre la communauté sur Skool](https://www.skool.com/rawgmcmastery/about)** : formation, lives et accompagnement.
+- [Catalogue et accueil](https://github.com/RAW-GMC-Mastery/standard)
+- [Formation et communauté Skool](https://www.skool.com/rawgmcmastery/about)
 
-Les ressources sont ajoutées progressivement. Pour les questions sur un outil ou un projet, retrouve les Discussions de l'espace concerné.
+Les ressources seront ajoutées progressivement. Aucun dépôt de skill n'est encore annoncé comme disponible.
